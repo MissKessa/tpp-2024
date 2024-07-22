@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Co1CCE5L81jj8afGrTz8FFZgEjV4jVauO4Nlla8q3LHFAkEiWkYXknzwr1QSC13rs0ECFrNpThGlbkwy0kpSkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

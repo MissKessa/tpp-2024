@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InPjpPKuXPzHdejYeH28tjf/OQdTd3Rnek1hUQKrB7bpvdgvsNEuzSRavkG1iXwmAGBAJ750djf+Y6FUby7Cmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\Theory examples\\concurrency\\tpl\\task.parallelism\\task.parallelism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

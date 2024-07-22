@@ -1,0 +1,14 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\bin\Debug\net5.0\@is.@as.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\is.as.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\is.as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\is.as.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\@is.@as.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\refint\@is.@as.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\@is.@as.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\is.as.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\is.as\obj\Debug\net5.0\ref\@is.@as.dll

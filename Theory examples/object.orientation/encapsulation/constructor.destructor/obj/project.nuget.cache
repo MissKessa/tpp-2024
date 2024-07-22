@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "907ih5LKCmMaWiuim7AWTA9lFbeUpsbQckndmv4mn09zd/teA3eU0YhJRbUtwaB2MDgOFbVbTICAJulJbNfmaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\examples\\object.orientation\\encapsulation\\constructor.destructor\\constructor.destructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

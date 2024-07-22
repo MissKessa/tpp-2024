@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5i9KN2c3hvoVyHZuLbT3t4DFKrGkNql+UD5Auyfk3CbOH5xsTkt7ix4fPprAlk/ugG00+cuvb0/xa2RmSrHQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uo294067\\Downloads\\theory.examples\\theory.examples\\examples\\functional\\delegates\\predefined\\predefined.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uo294067\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\uo294067\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

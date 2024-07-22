@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.exe
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.deps.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\bin\Debug\netcoreapp3.1\dynamic.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\dynamic\obj\Debug\netcoreapp3.1\dynamic.genruntimeconfig.cache

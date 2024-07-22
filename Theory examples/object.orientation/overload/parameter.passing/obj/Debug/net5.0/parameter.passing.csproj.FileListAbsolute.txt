@@ -1,0 +1,14 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\bin\Debug\net5.0\parameter.passing.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\refint\parameter.passing.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\parameter.passing.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\parameter.passing\obj\Debug\net5.0\ref\parameter.passing.dll

@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.exe
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.deps.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\netcoreapp3.1\multimethods.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\netcoreapp3.1\multimethods.genruntimeconfig.cache

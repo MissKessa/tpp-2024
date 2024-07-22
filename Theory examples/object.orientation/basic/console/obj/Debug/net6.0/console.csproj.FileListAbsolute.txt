@@ -1,0 +1,13 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\bin\Debug\net6.0\console.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\bin\Debug\net6.0\console.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\bin\Debug\net6.0\console.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\bin\Debug\net6.0\console.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\bin\Debug\net6.0\console.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\refint\console.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\console.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\basic\console\obj\Debug\net6.0\ref\console.dll

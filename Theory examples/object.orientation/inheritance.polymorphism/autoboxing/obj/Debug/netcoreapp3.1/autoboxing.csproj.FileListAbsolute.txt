@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\bin\Debug\netcoreapp3.1\autoboxing.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\inheritance.polymorphism\autoboxing\obj\Debug\netcoreapp3.1\autoboxing.genruntimeconfig.cache

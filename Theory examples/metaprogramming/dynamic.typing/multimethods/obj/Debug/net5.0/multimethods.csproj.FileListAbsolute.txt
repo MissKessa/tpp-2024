@@ -1,0 +1,14 @@
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.exe
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.deps.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\bin\Debug\net5.0\multimethods.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\refint\multimethods.dll
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.pdb
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\multimethods.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\metaprogramming\dynamic.typing\multimethods\obj\Debug\net5.0\ref\multimethods.dll

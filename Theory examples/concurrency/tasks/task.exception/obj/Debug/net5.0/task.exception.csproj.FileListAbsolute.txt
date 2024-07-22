@@ -1,0 +1,15 @@
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.exe
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.dll.config
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.deps.json
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.dll
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\bin\Debug\net5.0\task.exception.pdb
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.dll
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\refint\task.exception.dll
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.pdb
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\task.exception.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\concurrency\tasks\task.exception\obj\Debug\net5.0\ref\task.exception.dll

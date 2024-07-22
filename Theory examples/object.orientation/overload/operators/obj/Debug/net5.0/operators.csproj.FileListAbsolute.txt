@@ -1,0 +1,14 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\net5.0\operators.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\refint\operators.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\operators.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\net5.0\ref\operators.dll

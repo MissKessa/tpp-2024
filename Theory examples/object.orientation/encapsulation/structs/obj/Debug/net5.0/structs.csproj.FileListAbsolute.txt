@@ -1,0 +1,14 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\net5.0\structs.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\refint\structs.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\structs.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\net5.0\ref\structs.dll

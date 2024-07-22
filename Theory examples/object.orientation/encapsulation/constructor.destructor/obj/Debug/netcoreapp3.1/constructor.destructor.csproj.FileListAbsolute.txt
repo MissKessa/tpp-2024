@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\bin\Debug\netcoreapp3.1\constructor.destructor.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\constructor.destructor\obj\Debug\netcoreapp3.1\constructor.destructor.genruntimeconfig.cache

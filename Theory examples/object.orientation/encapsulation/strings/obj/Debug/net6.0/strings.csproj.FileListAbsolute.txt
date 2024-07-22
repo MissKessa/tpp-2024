@@ -1,0 +1,13 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\bin\Debug\net6.0\strings.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\bin\Debug\net6.0\strings.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\bin\Debug\net6.0\strings.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\bin\Debug\net6.0\strings.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\refint\strings.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\strings\obj\Debug\net6.0\ref\strings.dll

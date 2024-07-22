@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DxaRElIuicGiHKo0RLYCaBs2tvaxxC7u8ZeeEgFuQaGsPIPxFvITbQnlqzHKslqhcWdCkQmW4+/UPFakmjA17Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\examples\\object.orientation\\overload\\extension.methods\\extension.methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

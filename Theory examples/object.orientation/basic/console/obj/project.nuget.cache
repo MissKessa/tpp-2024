@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6lneGG10RfRuzo6Nv1D+mj7JocSzvMDjxpA7QOJzR3H1mfgA0jkJUijfTTh1VVb7IVsTHX+6OmQCAoPjzSfgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\examples\\object.orientation\\basic\\console\\console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

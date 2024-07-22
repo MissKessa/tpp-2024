@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\bin\Debug\netcoreapp3.1\structs.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\encapsulation\structs\obj\Debug\netcoreapp3.1\structs.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAgWySpPowGvN2U5ZWDSy2XagsSbRMGgMAHmd2UNdkjBQ64uOBXaZbTPM1/mwzEgS5l6wn2h1RlVuCSrtxSrPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP\\examples\\metaprogramming\\dynamic.typing\\dynamic\\dynamic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paula\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\paula\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

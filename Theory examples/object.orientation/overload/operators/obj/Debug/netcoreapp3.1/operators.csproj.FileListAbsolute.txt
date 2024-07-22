@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.exe
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.deps.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\bin\Debug\netcoreapp3.1\operators.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.dll
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.pdb
+C:\Users\paula\Desktop\TPP\examples\object.orientation\overload\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache
