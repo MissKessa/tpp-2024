@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Lab9_vector.modulus (Master&Worker)/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab9_vector.modulus (Master&Worker).dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab9_vector.modulus (Master&Worker).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab9_vector.modulus (Master&Worker)/1.0.0": {
+      "type": "project",
+      "path": "../Lab9_vector.modulus/Lab9_vector.modulus (Master&Worker).csproj",
+      "msbuildProject": "../Lab9_vector.modulus/Lab9_vector.modulus (Master&Worker).csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Lab9_vector.modulus (Master&Worker) >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paula\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\paula\\Desktop\\Git\\tpp-2024\\PracticandoExLab2\\Lab9_context.switching\\Lab9_measureTimesDifferentThreads.csproj",
+      "projectName": "Lab9_measureTimesDifferentThreads",
+      "projectPath": "C:\\Users\\paula\\Desktop\\Git\\tpp-2024\\PracticandoExLab2\\Lab9_context.switching\\Lab9_measureTimesDifferentThreads.csproj",
+      "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paula\\Desktop\\Git\\tpp-2024\\PracticandoExLab2\\Lab9_context.switching\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\paula\\Desktop\\Git\\tpp-2024\\PracticandoExLab2\\Lab9_vector.modulus\\Lab9_vector.modulus (Master&Worker).csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\Git\\tpp-2024\\PracticandoExLab2\\Lab9_vector.modulus\\Lab9_vector.modulus (Master&Worker).csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
