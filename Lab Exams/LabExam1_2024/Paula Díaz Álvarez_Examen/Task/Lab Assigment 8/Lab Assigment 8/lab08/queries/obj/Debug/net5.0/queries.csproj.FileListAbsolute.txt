@@ -1,0 +1,76 @@
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.exe
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.deps.json
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.json
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.dll
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\queries.pdb
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\model.dll
+C:\Users\uo294067\source\repos\lab08\queries\bin\Debug\net5.0\model.pdb
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.csproj.CopyComplete
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.dll
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\refint\queries.dll
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.pdb
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\queries.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\lab08\queries\obj\Debug\net5.0\ref\queries.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\refint\queries.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\ref\queries.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.exe
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.deps.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.dev.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.AssemblyReference.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfoInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfo.cs
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CopyComplete
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\refint\queries.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.genruntimeconfig.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\ref\queries.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.exe
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.deps.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.runtimeconfig.dev.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\queries.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\bin\Debug\net5.0\model.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.AssemblyInfo.cs
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.csproj.CopyComplete
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\refint\queries.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\queries.genruntimeconfig.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Task\Lab Assigment 8\Lab Assigment 8\lab08\queries\obj\Debug\net5.0\ref\queries.dll

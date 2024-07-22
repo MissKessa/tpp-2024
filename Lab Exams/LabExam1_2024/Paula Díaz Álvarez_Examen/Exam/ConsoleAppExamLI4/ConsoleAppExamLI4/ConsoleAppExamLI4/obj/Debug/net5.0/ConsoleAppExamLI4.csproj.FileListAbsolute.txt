@@ -1,0 +1,54 @@
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.AssemblyReference.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfoInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfo.cs
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.exe
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.deps.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.dev.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\refint\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.genruntimeconfig.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ref\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.exe
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.deps.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.dev.json
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\LinkedList.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.AssemblyReference.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfoInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfo.cs
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.CopyComplete
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\refint\ConsoleAppExamLI4.dll
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.genruntimeconfig.cache
+C:\Users\uo294067\Desktop\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ref\ConsoleAppExamLI4.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.exe
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.deps.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.runtimeconfig.dev.json
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.AssemblyInfo.cs
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.csproj.CopyComplete
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\refint\ConsoleAppExamLI4.dll
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.pdb
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ConsoleAppExamLI4.genruntimeconfig.cache
+C:\Users\paula\Desktop\Paula Díaz Álvarez_Examen\Paula Díaz Álvarez_Examen\Exam\ConsoleAppExamLI4\ConsoleAppExamLI4\ConsoleAppExamLI4\obj\Debug\net5.0\ref\ConsoleAppExamLI4.dll

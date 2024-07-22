@@ -1,0 +1,9 @@
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.deps.json
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.dll
+C:\Users\jotero\source\repos\lab08\model\bin\Debug\netcoreapp3.1\model.pdb
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.csprojAssemblyReference.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.csproj.CoreCompileInputs.cache
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.dll
+C:\Users\jotero\source\repos\lab08\model\obj\Debug\netcoreapp3.1\model.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppExamLI4", "ConsoleAppExamLI4\ConsoleAppExamLI4.csproj", "{0A81B32F-90A2-4DC7-9277-AF36F1CBA446}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "..\..\Lab Assigment 7\Lab Assigment 7\LinkedList\LinkedList.csproj", "{3794103B-0410-46B0-BABB-D2DECC4ECF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A81B32F-90A2-4DC7-9277-AF36F1CBA446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A81B32F-90A2-4DC7-9277-AF36F1CBA446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A81B32F-90A2-4DC7-9277-AF36F1CBA446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A81B32F-90A2-4DC7-9277-AF36F1CBA446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3794103B-0410-46B0-BABB-D2DECC4ECF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3794103B-0410-46B0-BABB-D2DECC4ECF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3794103B-0410-46B0-BABB-D2DECC4ECF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3794103B-0410-46B0-BABB-D2DECC4ECF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DFA1CC0-CDDA-401F-8D4A-DBE38D9B84B5}
+	EndGlobalSection
+EndGlobal
