@@ -1,0 +1,95 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Lab Assigment 1\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 6\Lab Assigment 1\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 7\Lab Assigment 1\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Lab Assigment 1\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 10_version 2\Lab Assigment 1\obj\Debug\net5.0\ref\ConsoleApp.dll

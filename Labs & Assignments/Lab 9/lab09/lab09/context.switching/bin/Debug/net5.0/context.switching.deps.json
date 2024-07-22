@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "context.switching/1.0.0": {
+        "dependencies": {
+          "vector.modulus": "1.0.0"
+        },
+        "runtime": {
+          "context.switching.dll": {}
+        }
+      },
+      "vector.modulus/1.0.0": {
+        "runtime": {
+          "vector.modulus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "context.switching/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vector.modulus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

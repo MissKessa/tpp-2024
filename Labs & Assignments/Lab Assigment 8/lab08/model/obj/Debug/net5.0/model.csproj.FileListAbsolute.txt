@@ -1,0 +1,24 @@
+C:\Users\uo294067\source\repos\lab08\model\bin\Debug\net5.0\model.deps.json
+C:\Users\uo294067\source\repos\lab08\model\bin\Debug\net5.0\model.dll
+C:\Users\uo294067\source\repos\lab08\model\bin\Debug\net5.0\model.pdb
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.dll
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\refint\model.dll
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\model.pdb
+C:\Users\uo294067\source\repos\lab08\model\obj\Debug\net5.0\ref\model.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\bin\Debug\net5.0\model.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\bin\Debug\net5.0\model.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\bin\Debug\net5.0\model.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\refint\model.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\model.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 8\lab08\model\obj\Debug\net5.0\ref\model.dll

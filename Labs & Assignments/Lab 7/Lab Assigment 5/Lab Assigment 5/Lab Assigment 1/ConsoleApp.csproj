@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Lab_Assigment_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Enumerable\Enumerable.csproj" />
+    <ProjectReference Include="..\LambdaFunctions\LambdaFunctions.csproj" />
+  </ItemGroup>
+
+</Project>

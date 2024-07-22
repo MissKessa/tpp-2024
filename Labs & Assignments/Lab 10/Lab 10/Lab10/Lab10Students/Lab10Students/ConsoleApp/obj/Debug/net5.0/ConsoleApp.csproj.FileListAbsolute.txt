@@ -1,0 +1,16 @@
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\José Otero\OneDrive - Universidad de Oviedo\Documents\TPP\2023\Lab10\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll

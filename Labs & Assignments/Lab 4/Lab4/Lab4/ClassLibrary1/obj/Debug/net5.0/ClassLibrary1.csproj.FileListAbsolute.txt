@@ -1,0 +1,12 @@
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\refint\ClassLibrary1.dll
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\uo294067\source\repos\Lab4\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll

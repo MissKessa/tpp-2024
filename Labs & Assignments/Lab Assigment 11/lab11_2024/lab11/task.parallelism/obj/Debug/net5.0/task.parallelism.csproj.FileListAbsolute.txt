@@ -1,0 +1,16 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\bin\Debug\net5.0\task.parallelism.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\refint\task.parallelism.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\task.parallelism.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 11\lab11_2024\lab11\task.parallelism\obj\Debug\net5.0\ref\task.parallelism.dll

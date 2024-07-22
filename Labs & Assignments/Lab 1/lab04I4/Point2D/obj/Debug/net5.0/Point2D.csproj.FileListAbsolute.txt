@@ -1,0 +1,14 @@
+C:\Users\uo294067\source\repos\lab04I4\Point2D\bin\Debug\net5.0\Point2D.deps.json
+C:\Users\uo294067\source\repos\lab04I4\Point2D\bin\Debug\net5.0\Point2D.dll
+C:\Users\uo294067\source\repos\lab04I4\Point2D\bin\Debug\net5.0\Point2D.pdb
+C:\Users\uo294067\source\repos\lab04I4\Point2D\bin\Debug\net5.0\Point2D.xml
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.dll
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\refint\Point2D.dll
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.xml
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\Point2D.pdb
+C:\Users\uo294067\source\repos\lab04I4\Point2D\obj\Debug\net5.0\ref\Point2D.dll

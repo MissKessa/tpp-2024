@@ -1,0 +1,25 @@
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\IntExtension.dll
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Point2D.dll
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Point2D.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\Point2D.xml
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\IntExtension.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP practicando examen\OneDrive_1_30-3-2024\Lab 2\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP practicando examen\OneDrive_1_30-3-2024\Lab 2\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\paula\Desktop\TPP practicando examen\OneDrive_1_30-3-2024\Lab 2\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb

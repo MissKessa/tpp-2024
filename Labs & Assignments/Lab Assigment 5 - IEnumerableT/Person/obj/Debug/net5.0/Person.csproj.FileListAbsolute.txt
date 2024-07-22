@@ -1,0 +1,75 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\bin\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\refint\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\bin\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\refint\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\bin\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\refint\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\bin\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\refint\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\bin\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\refint\Person.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\Person\obj\Debug\net5.0\ref\Person.dll

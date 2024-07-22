@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\refint\LinkedList.dll
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\Lab Assigment 1\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll

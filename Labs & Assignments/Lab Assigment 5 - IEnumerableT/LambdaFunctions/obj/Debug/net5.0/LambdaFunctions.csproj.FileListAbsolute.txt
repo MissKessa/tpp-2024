@@ -1,0 +1,24 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\refint\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\LambdaFunctions\obj\Debug\net5.0\ref\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\bin\Debug\net5.0\LambdaFunctions.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\refint\LambdaFunctions.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\LambdaFunctions.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5 - IEnumerableT\LambdaFunctions\obj\Debug\net5.0\ref\LambdaFunctions.dll

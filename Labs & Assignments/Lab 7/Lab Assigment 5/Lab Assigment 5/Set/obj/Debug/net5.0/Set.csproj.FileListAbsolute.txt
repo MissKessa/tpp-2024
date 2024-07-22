@@ -1,0 +1,75 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\bin\Debug\net5.0\Set.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\bin\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\bin\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\refint\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 2\Set\obj\Debug\net5.0\ref\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\bin\Debug\net5.0\Set.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\bin\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\bin\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\refint\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Set\obj\Debug\net5.0\ref\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\bin\Debug\net5.0\Set.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\bin\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\bin\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\refint\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 4\Set\obj\Debug\net5.0\ref\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\bin\Debug\net5.0\Set.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\bin\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\bin\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\refint\Set.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\Set.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 5\Set\obj\Debug\net5.0\ref\Set.dll
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\bin\Debug\net5.0\Set.deps.json
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\bin\Debug\net5.0\Set.dll
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\bin\Debug\net5.0\Set.pdb
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\bin\Debug\net5.0\LinkedList.dll
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.csproj.CopyComplete
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.dll
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\refint\Set.dll
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\Set.pdb
+C:\Users\uo294067\source\repos\Paula Díaz Álvarez_Lab Assigment 5\Lab Assigment 5\Set\obj\Debug\net5.0\ref\Set.dll

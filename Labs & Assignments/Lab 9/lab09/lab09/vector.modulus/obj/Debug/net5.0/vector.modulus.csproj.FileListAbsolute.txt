@@ -1,0 +1,32 @@
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.exe
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.deps.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.pdb
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\refint\vector.modulus.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.pdb
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\lab09\lab09\vector.modulus\obj\Debug\net5.0\ref\vector.modulus.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.exe
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.deps.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\bin\Debug\net5.0\vector.modulus.pdb
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\refint\vector.modulus.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.pdb
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\vector.modulus.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\vector.modulus\obj\Debug\net5.0\ref\vector.modulus.dll

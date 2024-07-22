@@ -1,0 +1,19 @@
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.exe
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\Lab Assigment 3.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\refint\Lab Assigment 3.dll
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\Lab Assigment 3.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab Assigment 3\Lab Assigment 1\obj\Debug\net5.0\ref\Lab Assigment 3.dll

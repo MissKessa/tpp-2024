@@ -1,0 +1,32 @@
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.exe
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.deps.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.runtimeconfig.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\refint\ConsoleAppInterlocked.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ref\ConsoleAppInterlocked.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.exe
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.deps.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\bin\Release\net5.0\ConsoleAppInterlocked.pdb
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\refint\ConsoleAppInterlocked.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.pdb
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ConsoleAppInterlocked.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleAppInterlocked\obj\Release\net5.0\ref\ConsoleAppInterlocked.dll

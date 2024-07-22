@@ -1,0 +1,32 @@
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.exe
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.deps.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.runtimeconfig.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\refint\ConsoleAppLock.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ref\ConsoleAppLock.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.exe
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.deps.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\bin\Release\net5.0\ConsoleAppLock.pdb
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\refint\ConsoleAppLock.dll
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.pdb
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ConsoleAppLock.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab 10\Lab 10\Lab10\Lab10Students\Lab10Students\ConsoleApp\obj\Release\net5.0\ref\ConsoleAppLock.dll

@@ -1,0 +1,15 @@
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\bin\Debug\net5.0\Concurrency.deps.json
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\bin\Debug\net5.0\Concurrency.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\bin\Debug\net5.0\Concurrency.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\bin\Debug\net5.0\LinkedList.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\bin\Debug\net5.0\LinkedList.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.csproj.CopyComplete
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\refint\Concurrency.dll
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\Concurrency.pdb
+C:\Users\paula\Desktop\TPP\Lab Assigmen 10\Concurrency\obj\Debug\net5.0\ref\Concurrency.dll

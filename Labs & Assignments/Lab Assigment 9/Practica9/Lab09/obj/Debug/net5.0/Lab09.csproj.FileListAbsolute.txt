@@ -1,0 +1,16 @@
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.exe
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.deps.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.runtimeconfig.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\bin\Debug\net5.0\Lab09.pdb
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\refint\Lab09.dll
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.pdb
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\Lab09.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\lab09.mandatory.activity\Practica9\Practica9\Lab09\obj\Debug\net5.0\ref\Lab09.dll

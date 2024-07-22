@@ -1,0 +1,16 @@
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.exe
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.deps.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.runtimeconfig.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.runtimeconfig.dev.json
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\bin\Debug\net5.0\thread.creation.pdb
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\refint\thread.creation.dll
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.pdb
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\thread.creation.genruntimeconfig.cache
+C:\Users\paula\Desktop\TPP\Lab 9\lab09\lab09\thread.creation\obj\Debug\net5.0\ref\thread.creation.dll

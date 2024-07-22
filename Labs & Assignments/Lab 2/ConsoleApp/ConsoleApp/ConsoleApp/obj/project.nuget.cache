@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "N7bA5A3z2c0xi1DSVIARENDWS3aU9n40qhQT9Kbu/4rSrs6jObrgV99dc/aMYFSeB7+3J44b9j3sUHoEXAkAvw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 2\\ConsoleApp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 2\\ConsoleApp\\lab04I4\\Point2D\\Point2D.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 2\\ConsoleApp\\lab04I4\\Point2D\\Point2D.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

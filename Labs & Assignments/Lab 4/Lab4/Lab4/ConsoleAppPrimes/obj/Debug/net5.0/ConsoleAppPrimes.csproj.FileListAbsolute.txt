@@ -1,0 +1,16 @@
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.exe
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.deps.json
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.runtimeconfig.json
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.dll
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\bin\Debug\net5.0\ConsoleAppPrimes.pdb
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.dll
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\refint\ConsoleAppPrimes.dll
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.pdb
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ConsoleAppPrimes.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\Lab4\ConsoleAppPrimes\obj\Debug\net5.0\ref\ConsoleAppPrimes.dll

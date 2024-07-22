@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "LinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedList/1.0.0": {
+      "type": "project",
+      "path": "../LinkedList/LinkedList.csproj",
+      "msbuildProject": "../LinkedList/LinkedList.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "LinkedList >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paula\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 1\\Paula Díaz_UO294067_Lab Assigment 1\\Lab Assigment 1\\Lab Assigment 1\\Lab Assigment 1.csproj",
+      "projectName": "Lab Assigment 1",
+      "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 1\\Paula Díaz_UO294067_Lab Assigment 1\\Lab Assigment 1\\Lab Assigment 1\\Lab Assigment 1.csproj",
+      "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 1\\Paula Díaz_UO294067_Lab Assigment 1\\Lab Assigment 1\\Lab Assigment 1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 1\\Paula Díaz_UO294067_Lab Assigment 1\\Lab Assigment 1\\LinkedList\\LinkedList.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\OneDrive_1_30-3-2024\\Lab 1\\Paula Díaz_UO294067_Lab Assigment 1\\Lab Assigment 1\\LinkedList\\LinkedList.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

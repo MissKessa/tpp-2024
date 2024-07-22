@@ -1,0 +1,16 @@
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.exe
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.deps.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.runtimeconfig.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.runtimeconfig.dev.json
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\bin\Release\net5.0\BarberShop.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\refint\BarberShop.dll
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.pdb
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\BarberShop.genruntimeconfig.cache
+C:\Users\uo294067\source\repos\Lab 10\Lab10\Lab10Students\Lab10Students\BarberShop\obj\Release\net5.0\ref\BarberShop.dll

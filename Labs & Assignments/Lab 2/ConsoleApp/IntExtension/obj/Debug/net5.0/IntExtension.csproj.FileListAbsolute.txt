@@ -1,0 +1,12 @@
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\bin\Debug\net5.0\IntExtension.deps.json
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\bin\Debug\net5.0\IntExtension.dll
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\bin\Debug\net5.0\IntExtension.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.csproj.AssemblyReference.cache
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.AssemblyInfoInputs.cache
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.AssemblyInfo.cs
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.csproj.CoreCompileInputs.cache
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.dll
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\refint\IntExtension.dll
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\IntExtension.pdb
+C:\Users\uo294067\source\repos\ConsoleApp\IntExtension\obj\Debug\net5.0\ref\IntExtension.dll

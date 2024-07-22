@@ -1,0 +1,2 @@
+-The highest benefit obtain is with 3 threads
+-When the number of threads is greater or equal to 20, the time of the concurrent version is slower than the sequential version

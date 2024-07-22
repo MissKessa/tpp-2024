@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Point2D</name>
+    </assembly>
+    <members>
+        <member name="T:TPP.Lab04.Color">
+            <summary>
+            An enumeration that represents colots
+            </summary>
+        </member>
+        <member name="T:TPP.Lab04.Point2D">
+            <summary>
+            A class that represents bidimensional points
+            </summary>
+        </member>
+        <member name="F:TPP.Lab04.Point2D.x">
+            <summary>
+            The coordinates
+            </summary>
+        </member>
+        <member name="F:TPP.Lab04.Point2D.y">
+            <summary>
+            The coordinates
+            </summary>
+        </member>
+        <member name="F:TPP.Lab04.Point2D.c">
+            <summary>
+            Color of the point
+            </summary>
+        </member>
+        <member name="M:TPP.Lab04.Point2D.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:TPP.Lab04.Point2D.#ctor(System.Double,System.Double)">
+            <summary>
+            Two double constructor
+            </summary>
+            <param name="x">x coordinate</param>
+            <param name="y">y coordinate</param>
+        </member>
+        <member name="M:TPP.Lab04.Point2D.Distance(TPP.Lab04.Point2D)">
+            <summary>
+            Computes the euclidean distance from the caller to the parameter
+            </summary>
+            <param name="p">the "to" point</param>
+            <returns>The distance as a double</returns>
+        </member>
+    </members>
+</doc>
