@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Geometry\Lab1_Geometry.csproj" />
+    <ProjectReference Include="..\Lab1_Assigment\Lab1_Assigment.csproj" />
+    <ProjectReference Include="..\Lab2\Lab2.csproj" />
+    <ProjectReference Include="..\Lab4\Lab4.csproj" />
+    <ProjectReference Include="..\Lab5\Lab5.csproj" />
+    <ProjectReference Include="..\Lab6\Lab6.csproj" />
+    <ProjectReference Include="..\Lab7\Lab7.csproj" />
+  </ItemGroup>
+
+</Project>

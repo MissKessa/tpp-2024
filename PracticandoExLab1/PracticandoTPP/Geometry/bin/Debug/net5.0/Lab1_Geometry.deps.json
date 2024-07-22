@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab1_Geometry/1.0.0": {
+        "runtime": {
+          "Lab1_Geometry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_Geometry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

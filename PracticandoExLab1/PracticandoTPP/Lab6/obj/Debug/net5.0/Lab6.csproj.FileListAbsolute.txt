@@ -1,0 +1,12 @@
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\bin\Debug\net5.0\Lab6.deps.json
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\bin\Debug\net5.0\Lab6.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\bin\Debug\net5.0\Lab6.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\refint\Lab6.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\Lab6.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab6\obj\Debug\net5.0\ref\Lab6.dll

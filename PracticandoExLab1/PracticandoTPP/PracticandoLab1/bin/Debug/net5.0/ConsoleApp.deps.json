@@ -1,0 +1,108 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Lab1_Assigment": "1.0.0",
+          "Lab1_Geometry": "1.0.0",
+          "Lab2": "1.0.0",
+          "Lab4": "1.0.0",
+          "Lab5": "1.0.0",
+          "Lab6": "1.0.0.0",
+          "Lab7": "1.0.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "Lab1_Assigment/1.0.0": {
+        "runtime": {
+          "Lab1_Assigment.dll": {}
+        }
+      },
+      "Lab1_Geometry/1.0.0": {
+        "runtime": {
+          "Lab1_Geometry.dll": {}
+        }
+      },
+      "Lab2/1.0.0": {
+        "runtime": {
+          "Lab2.dll": {}
+        }
+      },
+      "Lab4/1.0.0": {
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "Lab5/1.0.0": {
+        "runtime": {
+          "Lab5.dll": {}
+        }
+      },
+      "Lab6/1.0.0.0": {
+        "runtime": {
+          "Lab6.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Lab7/1.0.0.0": {
+        "runtime": {
+          "Lab7.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab1_Assigment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab1_Geometry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab6/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab7/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

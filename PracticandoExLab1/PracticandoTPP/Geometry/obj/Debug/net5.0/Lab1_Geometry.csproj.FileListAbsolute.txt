@@ -1,0 +1,36 @@
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfo.cs
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\bin\Debug\net5.0\Lab1_Geometry.deps.json
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\bin\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\bin\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\refint\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\PracticandoLab1\Geometry\obj\Debug\net5.0\ref\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.deps.json
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfo.cs
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\refint\Lab1_Geometry.dll
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\PracticandoTPP\Geometry\obj\Debug\net5.0\ref\Lab1_Geometry.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.deps.json
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\bin\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\refint\Lab1_Geometry.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\Lab1_Geometry.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Geometry\obj\Debug\net5.0\ref\Lab1_Geometry.dll

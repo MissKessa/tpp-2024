@@ -1,0 +1,167 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Lab1_Assigment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab1_Assigment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab1_Assigment.dll": {}
+        }
+      },
+      "Lab1_Geometry/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab1_Geometry.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab1_Geometry.dll": {}
+        }
+      },
+      "Lab2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab2.dll": {}
+        }
+      },
+      "Lab4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab4.dll": {}
+        }
+      },
+      "Lab5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab1_Assigment/1.0.0": {
+      "type": "project",
+      "path": "../Lab1_Assigment/Lab1_Assigment.csproj",
+      "msbuildProject": "../Lab1_Assigment/Lab1_Assigment.csproj"
+    },
+    "Lab1_Geometry/1.0.0": {
+      "type": "project",
+      "path": "../Geometry/Lab1_Geometry.csproj",
+      "msbuildProject": "../Geometry/Lab1_Geometry.csproj"
+    },
+    "Lab2/1.0.0": {
+      "type": "project",
+      "path": "../Lab2/Lab2.csproj",
+      "msbuildProject": "../Lab2/Lab2.csproj"
+    },
+    "Lab4/1.0.0": {
+      "type": "project",
+      "path": "../Lab4/Lab4.csproj",
+      "msbuildProject": "../Lab4/Lab4.csproj"
+    },
+    "Lab5/1.0.0": {
+      "type": "project",
+      "path": "../Lab5/Lab5.csproj",
+      "msbuildProject": "../Lab5/Lab5.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Lab1_Assigment >= 1.0.0",
+      "Lab1_Geometry >= 1.0.0",
+      "Lab2 >= 1.0.0",
+      "Lab4 >= 1.0.0",
+      "Lab5 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paula\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\PracticandoLab1\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\PracticandoLab1\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\PracticandoLab1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Geometry\\Lab1_Geometry.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Geometry\\Lab1_Geometry.csproj"
+            },
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab1_Assigment\\Lab1_Assigment.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab1_Assigment\\Lab1_Assigment.csproj"
+            },
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab2\\Lab2.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab2\\Lab2.csproj"
+            },
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab4\\Lab4.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab4\\Lab4.csproj"
+            },
+            "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab5\\Lab5.csproj": {
+              "projectPath": "C:\\Users\\paula\\Desktop\\TPP practicando examen\\PracticandoTPP\\Lab5\\Lab5.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\paula\Desktop\PracticandoTPP\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.deps.json
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\bin\Debug\net5.0\Lab2.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\Lab2.pdb
+C:\Users\paula\Desktop\TPP practicando examen\PracticandoTPP\Lab2\obj\Debug\net5.0\ref\Lab2.dll
