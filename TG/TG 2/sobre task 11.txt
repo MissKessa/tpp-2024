@@ -1,0 +1,2 @@
+La input es la clarin file and the output is a dictionary with the word as a key and
+the number of times it appears as the thing (int)

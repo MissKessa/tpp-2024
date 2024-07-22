@@ -1,0 +1,24 @@
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\bin\Debug\net5.0\pokemon.deps.json
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\bin\Debug\net5.0\pokemon.dll
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\bin\Debug\net5.0\pokemon.pdb
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.AssemblyInfo.cs
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.dll
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\refint\pokemon.dll
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\pokemon.pdb
+C:\Users\uo294100\Documents\TG 1 code\students\pokemon\obj\Debug\net5.0\ref\pokemon.dll
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\bin\Debug\net5.0\pokemon.deps.json
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\bin\Debug\net5.0\pokemon.dll
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\bin\Debug\net5.0\pokemon.pdb
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.csproj.AssemblyReference.cache
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.AssemblyInfoInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.AssemblyInfo.cs
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.dll
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\refint\pokemon.dll
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\pokemon.pdb
+C:\Users\paula\Desktop\TPP practicando examen\TG 001\TG 001\code DONE\students\pokemon\obj\Debug\net5.0\ref\pokemon.dll

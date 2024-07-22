@@ -1,0 +1,13 @@
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.exe.config
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.exe
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.pdb
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.Modelo.dll
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.Primos.dll
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.Modelo.pdb
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\bin\Debug\TPP.Lab12.Primos.pdb
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\ejercicios.csproj.AssemblyReference.cache
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\ejercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\ejercicios.csproj.CopyComplete
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\TPP.Lab12.exe
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\ejercicios\obj\Debug\TPP.Lab12.pdb

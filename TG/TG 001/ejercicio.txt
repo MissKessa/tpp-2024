@@ -1,0 +1,7 @@
+Exercise 3 - 3 points
+Implement a new generator method. It returns a collection of 5 random PokemonType
+instances (no repetitions in the collection of 5 instances are allowed). Those
+instances should fulfill a requirement expressed as a parameter function. (2.5pts)
+
+Using this new generator, define an expression or method to generate PokemonTypes
+with ElementType not Water (0.5pts).

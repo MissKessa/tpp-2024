@@ -1,0 +1,6 @@
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\bin\Debug\TPP.Lab12.Primos.dll
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\bin\Debug\TPP.Lab12.Primos.pdb
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\obj\Debug\primos.csproj.AssemblyReference.cache
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\obj\Debug\primos.csproj.CoreCompileInputs.cache
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\obj\Debug\TPP.Lab12.Primos.dll
+C:\Users\uo294100\Documents\TG 2\codigo_alumnos\primos\obj\Debug\TPP.Lab12.Primos.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pokemon", "pokemon\pokemon.csproj", "{4D0227AF-5931-4B03-AAC5-1801EFCBB214}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exam.run", "exam.run\exam.run.csproj", "{E65A22EF-2036-4870-9E89-640DDFAF461C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0227AF-5931-4B03-AAC5-1801EFCBB214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0227AF-5931-4B03-AAC5-1801EFCBB214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0227AF-5931-4B03-AAC5-1801EFCBB214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0227AF-5931-4B03-AAC5-1801EFCBB214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65A22EF-2036-4870-9E89-640DDFAF461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65A22EF-2036-4870-9E89-640DDFAF461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65A22EF-2036-4870-9E89-640DDFAF461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65A22EF-2036-4870-9E89-640DDFAF461C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596E6B95-079F-4C01-ACBC-CE33326A37E4}
+	EndGlobalSection
+EndGlobal

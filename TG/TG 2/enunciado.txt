@@ -1,0 +1,5 @@
+ejercicio 3
+En el proyecto primos tienes un programa multi-hilo para calcular numeros primos.
+Comprueba su correcto funcionamiento e intenta mejorar su rendimiento. Justifica
+brevemente las modificaciones que has realizado (cómo y porqué). Para ello puedes
+utilizar comentarios de código.
