@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "philosophers", "philosophers\philosophers.csproj", "{DF77515F-EFF8-4259-A1DF-F9DCDE5FCCF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "shared.resources", "shared.resource\shared.resources.csproj", "{25DA8A4D-5893-40BA-9EA7-4D69CE186941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF77515F-EFF8-4259-A1DF-F9DCDE5FCCF6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF77515F-EFF8-4259-A1DF-F9DCDE5FCCF6}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF77515F-EFF8-4259-A1DF-F9DCDE5FCCF6}.Release|x86.ActiveCfg = Release|x86
+		{DF77515F-EFF8-4259-A1DF-F9DCDE5FCCF6}.Release|x86.Build.0 = Release|x86
+		{25DA8A4D-5893-40BA-9EA7-4D69CE186941}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{25DA8A4D-5893-40BA-9EA7-4D69CE186941}.Debug|x86.Build.0 = Debug|Any CPU
+		{25DA8A4D-5893-40BA-9EA7-4D69CE186941}.Release|x86.ActiveCfg = Release|x86
+		{25DA8A4D-5893-40BA-9EA7-4D69CE186941}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D6352A4-CACD-48D6-B2CD-86F7D1D95879}
+	EndGlobalSection
+EndGlobal

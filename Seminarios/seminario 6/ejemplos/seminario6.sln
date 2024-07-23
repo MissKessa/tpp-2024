@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hilos.recursos", "hilos.recursos\hilos.recursos.csproj", "{C1633BAB-754E-47CF-B13F-6CD7C8136A33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "filosofos", "filosofos\filosofos.csproj", "{763047C8-2CCA-4E1F-943D-FB7D560F499E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1633BAB-754E-47CF-B13F-6CD7C8136A33}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1633BAB-754E-47CF-B13F-6CD7C8136A33}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1633BAB-754E-47CF-B13F-6CD7C8136A33}.Release|x86.ActiveCfg = Release|x86
+		{C1633BAB-754E-47CF-B13F-6CD7C8136A33}.Release|x86.Build.0 = Release|x86
+		{763047C8-2CCA-4E1F-943D-FB7D560F499E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{763047C8-2CCA-4E1F-943D-FB7D560F499E}.Debug|x86.Build.0 = Debug|Any CPU
+		{763047C8-2CCA-4E1F-943D-FB7D560F499E}.Release|x86.ActiveCfg = Release|x86
+		{763047C8-2CCA-4E1F-943D-FB7D560F499E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D6AEA0-3F60-4E82-A6EE-888DC92D9078}
+	EndGlobalSection
+EndGlobal
